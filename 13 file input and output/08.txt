@@ -1,0 +1,1 @@
+sum of 20 and 40 is 60

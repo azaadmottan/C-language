@@ -1,0 +1,1 @@
+Here we use fputs for write in the file.
